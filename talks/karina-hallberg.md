@@ -10,7 +10,7 @@
 
 **Meetup Group**: DevOps Malmö
 
-**Date**: Friday, TBD May 2023
+**Date**: Thursday, 25th May 2023
 
 **Topic:** A 10-Year IKEA Odyssey: Insights and Takeaways from the Digital Frontier
 
